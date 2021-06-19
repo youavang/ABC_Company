@@ -1,5 +1,7 @@
 ### ABC_Company Data Analysis
 
+This analysis uses python to create, manipulate, and transfer data, Microsoft SQL Server as database management engine, and SQL to query the data.
+
 Note: You'll want to personalize the server_name and paths.
 
 First, you'll want to run codes in the create_csv.py file. You'll create a flat_data.csv file.
